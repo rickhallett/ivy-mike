@@ -1,0 +1,32 @@
+{
+  "name": "ivy-mike",
+  "version": "0.0.1",
+  "description": "reactivex.io rewritten for the 21st Century",
+  "main": "index.js",
+  "scripts": {
+    "test": "null"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/rickhallett/ivy-mike.git"
+  },
+  "keywords": [
+    "rxjs",
+    "reactive",
+    "functional",
+    "fp"
+  ],
+  "author": "rickhallett",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rickhallett/ivy-mike/issues"
+  },
+  "homepage": "https://github.com/rickhallett/ivy-mike#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "commander": "^8.0.0",
+    "ramda": "^0.27.1",
+    "rxjs": "^7.2.0",
+    "yargs": "^17.0.1"
+  }
+}
